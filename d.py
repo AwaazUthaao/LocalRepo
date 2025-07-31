@@ -31,4 +31,4 @@ b.fromunicode(c)
 
 print(b)
 
-print(b.tolist())
+print(b.tostring())
