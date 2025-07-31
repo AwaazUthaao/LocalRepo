@@ -30,3 +30,5 @@ c = "moin"
 b.fromunicode(c)
 
 print(b)
+
+print(b.tolist())
