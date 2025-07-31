@@ -32,3 +32,6 @@ b.fromunicode(c)
 print(b)
 
 print(b.tostring())
+
+print(b.tobytes())
+
